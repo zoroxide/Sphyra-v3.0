@@ -34,7 +34,7 @@ ___<__(|) _   **-/  / /   /
      /  |,'   /  
     :   /    /
     [  /   ,'     ~>Saphyra DDoS Tool v3.0<~
-    | /  ,'      ~~>Created By Zoroxide@Anonymous<~~
+    | /  ,'      ~~>Created By Zoroxide<~~
     |/,-'        
     '
                                                        
